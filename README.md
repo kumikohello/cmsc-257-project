@@ -6,4 +6,6 @@
 
 3. medqa_modal_updated.py: For Blog Post 2, includes semantic uncertainty CoT. -> results:  gemma_medqa_us_test_semantic.csv file
 
+4. medqa_logprob_eval.py: From Blog Post 1, non-CoT uncertainty
+
 
